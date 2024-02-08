@@ -1,0 +1,10 @@
+C:\Users\Admin\Desktop\BasicPersonalInfo\bin\Debug\BasicPersonalInfo.exe.config
+C:\Users\Admin\Desktop\BasicPersonalInfo\bin\Debug\BasicPersonalInfo.exe
+C:\Users\Admin\Desktop\BasicPersonalInfo\bin\Debug\BasicPersonalInfo.pdb
+C:\Users\Admin\Desktop\BasicPersonalInfo\obj\Debug\BasicPersonalInfo.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\BasicPersonalInfo\obj\Debug\BasicPersonalInfo.Form1.resources
+C:\Users\Admin\Desktop\BasicPersonalInfo\obj\Debug\BasicPersonalInfo.Properties.Resources.resources
+C:\Users\Admin\Desktop\BasicPersonalInfo\obj\Debug\BasicPersonalInfo.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\BasicPersonalInfo\obj\Debug\BasicPersonalInfo.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\BasicPersonalInfo\obj\Debug\BasicPersonalInfo.exe
+C:\Users\Admin\Desktop\BasicPersonalInfo\obj\Debug\BasicPersonalInfo.pdb
