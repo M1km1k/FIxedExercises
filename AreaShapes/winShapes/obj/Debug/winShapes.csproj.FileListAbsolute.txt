@@ -1,0 +1,21 @@
+C:\Users\pc\OneDrive\Desktop\New folder\winShapes\winShapes\bin\Debug\winShapes.exe.config
+C:\Users\pc\OneDrive\Desktop\New folder\winShapes\winShapes\bin\Debug\winShapes.exe
+C:\Users\pc\OneDrive\Desktop\New folder\winShapes\winShapes\bin\Debug\winShapes.pdb
+C:\Users\pc\OneDrive\Desktop\New folder\winShapes\winShapes\obj\Debug\winShapes.csproj.AssemblyReference.cache
+C:\Users\pc\OneDrive\Desktop\New folder\winShapes\winShapes\obj\Debug\winShapes.csproj.SuggestedBindingRedirects.cache
+C:\Users\pc\OneDrive\Desktop\New folder\winShapes\winShapes\obj\Debug\winShapes.Form1.resources
+C:\Users\pc\OneDrive\Desktop\New folder\winShapes\winShapes\obj\Debug\winShapes.Properties.Resources.resources
+C:\Users\pc\OneDrive\Desktop\New folder\winShapes\winShapes\obj\Debug\winShapes.csproj.GenerateResource.cache
+C:\Users\pc\OneDrive\Desktop\New folder\winShapes\winShapes\obj\Debug\winShapes.csproj.CoreCompileInputs.cache
+C:\Users\pc\OneDrive\Desktop\New folder\winShapes\winShapes\obj\Debug\winShapes.exe
+C:\Users\pc\OneDrive\Desktop\New folder\winShapes\winShapes\obj\Debug\winShapes.pdb
+C:\Users\Admin\Desktop\AreaShapes\winShapes\bin\Debug\winShapes.exe.config
+C:\Users\Admin\Desktop\AreaShapes\winShapes\bin\Debug\winShapes.exe
+C:\Users\Admin\Desktop\AreaShapes\winShapes\bin\Debug\winShapes.pdb
+C:\Users\Admin\Desktop\AreaShapes\winShapes\obj\Debug\winShapes.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\AreaShapes\winShapes\obj\Debug\winShapes.Form1.resources
+C:\Users\Admin\Desktop\AreaShapes\winShapes\obj\Debug\winShapes.Properties.Resources.resources
+C:\Users\Admin\Desktop\AreaShapes\winShapes\obj\Debug\winShapes.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\AreaShapes\winShapes\obj\Debug\winShapes.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\AreaShapes\winShapes\obj\Debug\winShapes.exe
+C:\Users\Admin\Desktop\AreaShapes\winShapes\obj\Debug\winShapes.pdb
