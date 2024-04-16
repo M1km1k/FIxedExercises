@@ -1,0 +1,12 @@
+D:\BookMonitoringSystem\bin\Debug\BookMonitoringSystem.exe.config
+D:\BookMonitoringSystem\bin\Debug\BookMonitoringSystem.exe
+D:\BookMonitoringSystem\bin\Debug\BookMonitoringSystem.pdb
+D:\BookMonitoringSystem\obj\Debug\BookMonitoringSystem.csproj.AssemblyReference.cache
+D:\BookMonitoringSystem\obj\Debug\BookMonitoringSystem.frmMain.resources
+D:\BookMonitoringSystem\obj\Debug\BookMonitoringSystem.Properties.Resources.resources
+D:\BookMonitoringSystem\obj\Debug\BookMonitoringSystem.csproj.GenerateResource.cache
+D:\BookMonitoringSystem\obj\Debug\BookMonitoringSystem.csproj.CoreCompileInputs.cache
+D:\BookMonitoringSystem\obj\Debug\BookMonitoringSystem.exe
+D:\BookMonitoringSystem\obj\Debug\BookMonitoringSystem.pdb
+D:\BookMonitoringSystem\obj\Debug\BookMonitoringSystem.frmLogin.resources
+D:\BookMonitoringSystem\obj\Debug\BookMonitoringSystem.frmBook.resources
